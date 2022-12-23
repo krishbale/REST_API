@@ -1,0 +1,71 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "featured":true,
+        "company":"apple"
+    },
+    
+    {
+        "name":"android",
+        "price":15,
+      
+        "company":"apple"
+    },
+    
+    {
+        "name":"watch",
+        "price":154,
+        
+        "company":"apple"
+    },
+    
+    {
+        "name":"iphone10",
+        "price":154,
+        "featured":true,
+        "company":"apple"
+    },
+    
+    {
+        "name":"iphone100",
+        "price":154,
+     
+        "company":"dell"
+    },
+    
+    {
+        "name":"android10",
+        "price":154,
+        "featured":true,
+        "company":"samsung"
+    },
+    
+    {
+        "name":"android10",
+        "price":154,
+        
+        "company":"dell"
+    },
+    
+    {
+        "name":"watch100",
+        "price":154,
+        "featured":true,
+        "company":"mi"
+    },
+    
+    {
+        "name":"iphone",
+        "price":154,
+       
+        "company":"apple"
+    },
+    
+    {
+        "name":"iphone",
+        "price":154,
+       
+        "company":"apple"
+    }
+]
